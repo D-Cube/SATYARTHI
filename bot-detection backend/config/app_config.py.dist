@@ -1,0 +1,12 @@
+twitter = dict(
+    consumer_key = "",
+    consumer_secret = "",
+
+    access_token = "",
+    access_token_secret = "",
+)
+
+database = dict(
+    name = "bot_detection.db",
+    tweet_table = "tweets"
+)
